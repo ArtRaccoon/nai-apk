@@ -1,0 +1,3 @@
+{
+  "expo": { "name": "NAI Opus", "slug": "nai-opus-client", "version": "0.1.0", "orientation": "default", "scheme": "naiopus", "userInterfaceStyle": "dark", "android": { "package": "com.artraccoon.naiopus" }, "plugins": ["expo-router", "expo-secure-store", ["expo-media-library", { "photosPermission": "Разрешите NAI Opus сохранять готовые изображения в галерею." }]] }
+}
